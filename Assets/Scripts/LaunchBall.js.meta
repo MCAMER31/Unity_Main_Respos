@@ -2,6 +2,10 @@ fileFormatVersion: 2
 guid: 2df61fdeb8bfcbf44bb66d9c1f5dc98d
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - character: {fileID: 400000, guid: 967851b2a3e74574db69edc9e12993d3, type: 2}
+  - bullet: {instanceID: 0}
+  - spawnPt: {instanceID: 0}
+  - Camchild: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
